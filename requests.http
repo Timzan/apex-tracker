@@ -1,0 +1,6 @@
+# GET https://public-api.tracker.gg/v2/overwatch/standard/profile/battlenet/HENZOTAKER%232123 HTTP/1.1
+# TRN-Api-Key: 0f3bf61a-90a7-4221-83f7-3eea697e7193
+
+
+
+GET http://localhost:5000/api/profile/origin/Teamzan HTTP/1.1

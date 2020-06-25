@@ -1,0 +1,14 @@
+node_modules/
+client/
+
+
+package.json
+package-lock.json
+request.http
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
