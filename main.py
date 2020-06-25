@@ -14,7 +14,7 @@ app.include_router(profile.router,
                    prefix='/api/profile')
 
 
-@app.get(".*/")
+@app.get("/.*/?")
 async def index():
     return FileResponse('./public/index.html')
 
