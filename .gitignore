@@ -5,7 +5,7 @@ node_modules/
 
 Procfile
 
-request.http
+requests.http
 .idea
 .vscode
 *.suo
