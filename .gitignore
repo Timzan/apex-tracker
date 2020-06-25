@@ -1,9 +1,10 @@
 node_modules/
-client/
 
 
-package.json
-package-lock.json
+
+
+Procfile
+
 request.http
 .idea
 .vscode

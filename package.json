@@ -1,0 +1,15 @@
+{
+  "name": "tracker_app",
+  "version": "1.0.0",
+  "description": "Track your apex stats",
+  "scripts": {
+    "server": "python main.py",
+    "client": "npm run serve --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "author": "Timzan",
+  "license": "MIT",
+  "dependencies": {
+    "concurrently": "^5.2.0"
+  }
+}
